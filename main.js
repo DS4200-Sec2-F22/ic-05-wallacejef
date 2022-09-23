@@ -2,7 +2,7 @@ let numClicks = 0;
 console.log(numClicks);  
 
 function addOne(numClicks) {
-    let numClicks = numClicks + 1; 
+    numClicks = numClicks + 1; 
     return numClicks; 
 }
  
